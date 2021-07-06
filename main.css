@@ -5,13 +5,13 @@
 body{
     background: #ed3431;
 }
-#contenedor{{
+#contenedor{
     winth: 980px;
     height: 870px;
     background: #d8cc929;
     border: 1px solid #fcd;
     border-radius: 4px;
-    box-shadow: 2ps 3px 2x #777;
+    box-shadow: 2px 3px 2px #777;
   }
   h1{
     color: #fff;
@@ -20,7 +20,7 @@ body{
     text-sadow: 2px 3px 2px #777;
     
   }
-  .pre[
+  .pre{
     color:#fff;
     width: 120px;
     height: 30px;
